@@ -1,2 +1,2 @@
 # 2048
-Using Northwestern's ge211 graphics library, play the game 2048.
+Interactive game 2048, coded using the GE211 graphics library. Uses model-view-controller structure.
